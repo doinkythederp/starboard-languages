@@ -443,6 +443,9 @@
   "REASON_PLACEHOLDER": "Inappropriate content.",
   "MESSAGE_ID": "Message ID",
   "TRASHED_MESSAGES": "Trashed Messages",
+  "COMPLETE_CAPTCHA": "Complete CAPTCHA",
+  "INPUT_CAPTCHA": "Input the text from the image",
+  "CAPTCHA_FAILED": "The text you inputted did not match the text in the image. Try again.",
 
   "NO_STARRED_MESSAGES": "It seems this server has no starred messages yet!",
   "NO_STARRED_MESSAGES_AVAILABLE": "There are no starred messages I am able to show - the only ones I've found are unobtainable. They might be deleted, in deleted channels, or I don't have permission to see them.",
@@ -487,7 +490,6 @@
   "GLOBAL_STATS": "Global Stats",
   "STARBOARD_MESSAGES_EDITED": "Starboard Messages Edited",
   "REWARD_ROLES_GIVEN": "Reward Roles Given",
-
 
   "LEADERBOARD_TITLE": "Leaderboard - {title}",
   "YOUR_PLACE": "Your Place: {place, select, 0 {Not on the leaderboard.} other {#{place, number}}}",
