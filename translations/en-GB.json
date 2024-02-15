@@ -446,6 +446,8 @@
   "COMPLETE_CAPTCHA": "Complete CAPTCHA",
   "INPUT_CAPTCHA": "Input the text from the image",
   "CAPTCHA_FAILED": "The text you inputted did not match the text in the image. Try again.",
+  "FACT_CHECK": "Fact Check",
+  "ALREADY_FACT_CHECKED": "Due to cost cuts we do not let you fact check messages twice.",
 
   "NO_STARRED_MESSAGES": "It seems this server has no starred messages yet!",
   "NO_STARRED_MESSAGES_AVAILABLE": "There are no starred messages I am able to show - the only ones I've found are unobtainable. They might be deleted, in deleted channels, or I don't have permission to see them.",
